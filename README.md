@@ -1,4 +1,4 @@
-[Blk• Design  System Angular](https://demos.creative-tim.com/blk-design-system-angular) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fcreativetimofficial.github.io%2Fblk-design-system-angular&text=BLK%20Design%20System%20Angular%20-%20Free%20Angular%20Template&original_referer=https%3A%2F%2Fdemos.creative-tim.com%blk-design-system-angular%2F%3F_ga%3D2.234372891.44370326.1533641128-1803433978.1528781151&via=creativetim&hashtags=angular%2Cbootstrap)
+<!-- [Blk• Design  System Angular](https://demos.creative-tim.com/blk-design-system-angular) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fcreativetimofficial.github.io%2Fblk-design-system-angular&text=BLK%20Design%20System%20Angular%20-%20Free%20Angular%20Template&original_referer=https%3A%2F%2Fdemos.creative-tim.com%blk-design-system-angular%2F%3F_ga%3D2.234372891.44370326.1533641128-1803433978.1528781151&via=creativetim&hashtags=angular%2Cbootstrap)
 
 
  ![version](https://img.shields.io/badge/version-1.2.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/blk-design-system-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/blk-design-system-angular/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/blk-design-system-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/blk-design-system-angular/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
@@ -192,4 +192,4 @@ Facebook: <https://www.facebook.com/CreativeTim>
 
 Dribbble: <https://dribbble.com/creativetim>
 
-Instagram: <https://www.instagram.com/CreativeTimOfficial>
+Instagram: <https://www.instagram.com/CreativeTimOfficial> -->
