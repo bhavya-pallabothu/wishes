@@ -1,0 +1,29 @@
+.navbar {
+    background-color: #fd5d93 !important;
+}
+
+.modal.show .modal-dialog {
+    transform: translate(0, 60%);
+}
+
+.input-group-last {
+    width: fit-content
+}
+
+.form-control {
+    width: 20%;
+    margin: 0px 5px;
+}
+
+.test {
+    display: flex;
+}
+
+.element {
+    margin: 5px;
+    /* Add some margin for spacing */
+}
+
+.btn {
+    margin: 0px 5px;
+}
