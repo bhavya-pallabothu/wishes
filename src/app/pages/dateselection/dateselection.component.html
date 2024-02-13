@@ -86,16 +86,20 @@
 <div class="section section-typo">
   <div class="container">
     <div class="row justify-content-between align-items-top">
-      <div class="col-lg-5 mb-5 mb-lg-0">
-        <h3 class="text-white font-weight-light">Hey Teja</h3>
-        <p class="text-white mt-4 mb-4">
-          In-order to enter in to the new page you have to fill the 
-        </p>
-        
+      <div class="mb-5 mb-lg-0">
+        <h3 class="heading">Treasure Hunt of Love</h3>
+        <div class="text-white mt-4 mb-4 ml-3 mypara">I know you like to watch films that immersely engage you in it 😄. So here is my try to make you engaged in
+          unreveling the last page by clicking on images - where each image holds a clue, leading you closer to unlocking the
+          secrets that lie beyond </div>
+        <div class="text-white mt-4 mb-4 ml-3 mypara">
+          Gather the fragments of mystery, piece by piece, then enter your answer in guess box
+        </div>
       </div>
     </div>
+  </div>
+  <div class="container">
+   
     <div id="images">
-      
       <div class="row">
         <div class="col-sm-3 col-6 mt-5 mt-sm-0">
           <small class="d-block text-uppercase font-weight-bold m-4">
@@ -140,7 +144,7 @@
 </div>
 
 <div class="container test">
-  <div class="element">Enter your guess here buddy :</div>
+  <div class="text-white element">Guess Box:</div>
   <input class="form-control" type="text" [(ngModel)]="inputValue" (input)="checkInput()" placeholder="what's your guess Mr.Voleti.....😊 ">
   <button (click)="submitData()" class="btn btn-danger btn-round btn-lg" [disabled]="isButtonDisabled">Submit</button>
   </div>

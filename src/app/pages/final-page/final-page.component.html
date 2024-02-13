@@ -1,8 +1,15 @@
-<div style="display:flex;align-items: center;justify-content: center;">
+<!-- <div style="display:flex;align-items: center;justify-content: center;">
     <iframe [src]='safeUrl' width="700" height="500" frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen></iframe>
 
 
-        <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/pAkJPRLWVqU?si=P-r-RNyjr8cTEXho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
-</div>>
+</div> -->
+
+<video #videoPlayer width="900" height="500" controls>
+  <source [src]="safeUrl" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<div>
+    <button class="btn btn-danger btn-round btn-lg" (click)="toggleFullScreen()">Toggle Fullscreen</button>
+</div>

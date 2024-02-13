@@ -24,7 +24,7 @@ export class DateselectionComponent implements OnInit {
 
   checkInput() {
     // Check if input matches certain criteria
-    if (this.inputValue === "hello") {
+    if (this.inputValue === "YellowBramhiRush15") {
       this.isButtonDisabled = false; // Enable the button
     } else {
       this.isButtonDisabled = true; // Disable the button

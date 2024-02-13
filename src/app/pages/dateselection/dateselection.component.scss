@@ -1,7 +1,13 @@
 .navbar {
     background-color: #fd5d93 !important;
 }
-
+.heading{
+    color:#fd5d93;
+    font-family:cursive;
+}
+.mypara{
+    font-family: monospace;
+}
 .modal.show .modal-dialog {
     transform: translate(0, 60%);
 }
